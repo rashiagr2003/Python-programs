@@ -1,0 +1,5 @@
+Hello! This is a sample text file.
+You can use this file to practice reading and writing.
+Happy coding!
+
+ This is my content

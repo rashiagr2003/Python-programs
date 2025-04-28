@@ -18,6 +18,7 @@ print(A//B)
 # By dividing the integer it give the float value after that it coonvert it to integer
 name1=input("name:")
 age1=int(input('age:'))
+
 print('my name is',name1,'my age is',age1)
 print(2**8) #2^8=256
 light=input('light: ')
